@@ -1,6 +1,6 @@
 # Emprestimo
 
-Projeto para Modulo de POO  desenvolimento de Locadora de Veiculos usando NodeJS e Typescript
+Projeto para Modulo de POO  desenvolimento de Emprestimo usando NodeJS e Typescript
 
 
 ## Instalação
